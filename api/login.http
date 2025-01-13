@@ -1,0 +1,7 @@
+POST http://localhost:8080/api/auth/local
+Content-Type: application/json
+
+{
+    "identifier":"s6502041620115@email.kmutnb.ac.th",
+    "password":"p@ssw@rd"
+}
